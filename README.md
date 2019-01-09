@@ -1,2 +1,2 @@
 # Firestore-migration-Script
-Script to migrate Realtime database to Firestore
+A script to migrate firebase realtime database to Firestore working with several nested data
